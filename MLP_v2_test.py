@@ -1,4 +1,5 @@
 import MLP_v2_pomocnicze as pomocnicze
+import MLP_v2
 
 def test():
     dane_treningowe = pomocnicze.wczytajDane("train-images.idx3-ubyte")
